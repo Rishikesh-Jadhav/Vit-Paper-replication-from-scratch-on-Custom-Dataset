@@ -1,2 +1,1 @@
-# Vit-Paper-replication-from-scratch-on-Indian_foods_dataset.
-## This is still a work in progress.... 
+# Replicating Vanilla VIT Paper from Scratch on an Indian Food Dataset: Work in Progress
