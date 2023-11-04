@@ -1,1 +1,2 @@
-# Vit-Paper-replication-from-scratch-on-Custom-Dataset
+# Vit-Paper-replication-from-scratch-on-Indian_foods_dataset.
+## This is still a work in progress.... 
