@@ -1,1 +1,1 @@
-# Replicating Vanilla VIT Paper from Scratch on an Indian Food Dataset: Work in Progress............(stay tuned)
+# Replicating Vanilla VIT Paper from Scratch on an Indian Food Dataset: Work in Progress...........(stay tuned)
